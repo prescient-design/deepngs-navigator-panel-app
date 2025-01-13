@@ -1,0 +1,17 @@
+name: deepngs_panel
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - fsspec
+  - holoviews
+  - hvplot
+  - matplotlib
+  - numpy
+  - pandas
+  - panel
+  - pre-commit
+  - pytest
+  - scikit-learn
+  - s3fs
+
