@@ -45,4 +45,15 @@ Once the panel application is running:
    - View their MSA patterns.
    - If needed, download the selected sequences directly from the interface.
 
-Enjoy exploring your deepNGS data with the deepNGS Navigator Panel application!
+
+### License
+This software is licensed under a modified Apache License, Version 2.0 (the "License"), specifically a Genentech Non-Commercial Software License. You may not use these files except in compliance with the License. You may obtain a copy of the License.
+
+Unless required by applicable law or agreed upon in writing, software distributed under the License is provided on an "as is" basis, without warranties or conditions of any kind, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+### Citation
+If you use this code, please cite:
+
+@article{
+}
+
