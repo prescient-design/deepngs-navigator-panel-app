@@ -54,6 +54,14 @@ Unless required by applicable law or agreed upon in writing, software distribute
 ### Citation
 If you use this code, please cite:
 
-@article{
+@article {MohammadiPeyhani2025.01.27.634805,
+   title = {deepNGS Navigator: Exploring antibody NGS datasets using deep contrastive learning},
+	author = {MohammadiPeyhani, Homa and Lee, Edith and Bonneau, Richard and Gligorijevic, Vladimir and Lee, Jae Hyeon},
+	year = {2025},
+	doi = {10.1101/2025.01.27.634805},
+	URL = {https://www.biorxiv.org/content/early/2025/01/28/2025.01.27.634805},
+	eprint = {https://www.biorxiv.org/content/early/2025/01/28/2025.01.27.634805.full.pdf},
+	journal = {bioRxiv}
 }
+
 
